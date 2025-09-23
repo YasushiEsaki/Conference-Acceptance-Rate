@@ -101,6 +101,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |NeurIPS'22| 25.6% (?/10411) (? orals, ? spotlights and ? posters) | - |
 |NeurIPS'23| 26.1% (3218/12343) (67 orals, 378 spotlights and 2773 posters) | - |
 |NeurIPS'24| 25.8% (4037/15671) (61 orals, 327 spotlights and 3649 posters) | - |
+|NeurIPS'25| 24.5% (5290/21575) (77 orals, 688 spotlights and 4525 posters) | - |
 |ICLR'14 | - | - |
 |ICLR'15 | - | - |
 |ICLR'16 | - | - |
